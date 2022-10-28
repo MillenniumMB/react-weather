@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-weather/static/css/main.a6a86f64.css",
-    "main.js": "/react-weather/static/js/main.ba15959b.js",
-    "index.html": "/react-weather/index.html",
-    "main.a6a86f64.css.map": "/react-weather/static/css/main.a6a86f64.css.map",
-    "main.ba15959b.js.map": "/react-weather/static/js/main.ba15959b.js.map"
+    "main.css": "/redux-react-list/static/css/main.a6a86f64.css",
+    "main.js": "/redux-react-list/static/js/main.ba15959b.js",
+    "index.html": "/redux-react-list/index.html",
+    "main.a6a86f64.css.map": "/redux-react-list/static/css/main.a6a86f64.css.map",
+    "main.ba15959b.js.map": "/redux-react-list/static/js/main.ba15959b.js.map"
   },
   "entrypoints": [
     "static/css/main.a6a86f64.css",
